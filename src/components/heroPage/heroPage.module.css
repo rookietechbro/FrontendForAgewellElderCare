@@ -1,0 +1,66 @@
+
+
+.getStarted{
+    border:none;
+    border-radius: 15px;
+    width: 150px;
+    height: 40px;
+    background-color: #070a3a;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.logIn{
+    border:none;
+    border-radius: 15px;
+    width: 150px;
+    height: 40px;
+    background-color: darkseagreen;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.heroPage{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 40px;
+    bottom: 0;
+    box-sizing: border-box;
+    height: 80px;
+
+
+}
+.screen {
+    width: 600px;
+    height: 750px;
+    background-image: url( '../assets/icons/frontphoto/comrawpixel427883.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    right: 30px;
+
+}
+
+.bothText{
+    width: 60%;
+    position: relative;
+    left: 10px;
+}
+.give{
+    font-size: 6rem;
+    line-height: 6.8rem;
+    font-family: "dm serif display",Serif;
+    font-weight: 400;
+    /*width: 80%;*/
+}
+.subscribe{
+    font-size: 1.8rem;
+    margin-bottom: 5.6rem;
+}
+.buttonHolder{
+    display: flex;
+    gap: 10px;
+    margin-top: 25px;
+}
+
